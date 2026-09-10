@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,67.94
+2,Monitor,Electronics,459.89
+3,Keyboard,Electronics,260.3
+4,Headphones,Electronics,397.6
+5,Office Chair,Furniture,915.39
+6,Desk,Furniture,459.92
+7,Bookshelf,Furniture,904.4
+8,Cabinet,Furniture,999.65
+9,Coffee,Grocery,308.71
+10,Tea,Grocery,105.63
+11,Snacks,Grocery,31.1
+12,Cereal,Grocery,650.99
+13,Shirt,Clothing,1199.89
+14,Jeans,Clothing,425.15
+15,Jacket,Clothing,782.97
+16,Shoes,Clothing,939.23
+17,Lamp,Home,784.89
+18,Cookware,Home,907.05
+19,Towel,Home,1139.94
+20,Storage Box,Home,245.64

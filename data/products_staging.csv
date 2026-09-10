@@ -1,0 +1,21 @@
+product_id,product_name,category_id,unit_price
+1,Laptop,1,67.94
+2,Monitor,1,459.89
+3,Keyboard,1,260.3
+4,Headphones,1,397.6
+5,Office Chair,2,915.39
+6,Desk,2,459.92
+7,Bookshelf,2,904.4
+8,Cabinet,2,999.65
+9,Coffee,3,308.71
+10,Tea,3,105.63
+11,Snacks,3,31.1
+12,Cereal,3,650.99
+13,Shirt,4,1199.89
+14,Jeans,4,425.15
+15,Jacket,4,782.97
+16,Shoes,4,939.23
+17,Lamp,5,784.89
+18,Cookware,5,907.05
+19,Towel,5,1139.94
+20,Storage Box,5,245.64
